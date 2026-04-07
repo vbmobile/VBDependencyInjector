@@ -17,8 +17,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VBDependencyInjector",
-            url: "https://vbmobileidstorage.blob.core.windows.net/ios/MobileIdSDKiOS/VBDependencyInjector/VBDependencyInjector-1.0.5.zip",
-            checksum: "7f47a58670f74f24cbbde0b6e7f9abda0e2076b3d3437781108ec7a30c6af257"
+            url: "https://vbmobileidstorage.blob.core.windows.net/ios/MobileIdSDKiOS/VBDependencyInjector/VBDependencyInjector-1.0.6.zip",
+            checksum: "00ac683fb6d962befb63c6b5369332241098b5433fa472ea22aeb00a4a4237d0"
         )
     ],
     swiftLanguageVersions: [.v5]
