@@ -1,4 +1,10 @@
-# ⚠️ VBDependencyInjector - INTERNAL USE ONLY ⚠️
+# VBDependencyInjector (deprecated)
+
+This package is no longer maintained and must not be added to new projects. The MobileID SDK now owns the dependency injection implementation it requires; see [MobileID SDK merge request !717](https://git.intra.vision-box.com/mobile-id/mb-mobileid-sdk-ios/-/merge_requests/717).
+
+Existing consumers should migrate away from this package. Version 1.0.7 remains available only to avoid breaking existing builds, but it will not receive updates or fixes.
+
+# ⚠️ INTERNAL USE ONLY ⚠️
  
 **Important Notice:**
  
